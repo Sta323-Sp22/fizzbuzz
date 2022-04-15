@@ -26,3 +26,11 @@ fizzbuzz = function(x) {
 }
 
 
+#' @title Flights data
+#'
+#' @description Data borrowed from the nycflights package
+#'
+#' @docType data
+#' @name flights
+NULL
+
